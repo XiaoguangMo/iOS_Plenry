@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (2.0.2)
+  - Cloudinary (1.0.14)
+  - GoogleMaps (1.10.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0)
+  - Cloudinary
+  - GoogleMaps
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  Cloudinary: b07e14313bcc3a47418ea47e1c4020cb70518446
+  GoogleMaps: da51c62c338c2d9c47cdad470a0d1e0e4b8544e4
+
+COCOAPODS: 0.38.2

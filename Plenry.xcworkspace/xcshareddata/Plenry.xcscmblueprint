@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CC7E69C215DCE0A4E089D759DC09381B9A8AB4F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CC7E69C215DCE0A4E089D759DC09381B9A8AB4F0" : 0,
+    "4924E6F4450D527E3E80B99F73E58791F97C5023" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "96294F58-93A0-40B1-B3DB-8C6F11FA5175",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CC7E69C215DCE0A4E089D759DC09381B9A8AB4F0" : "plenry-ios",
+    "4924E6F4450D527E3E80B99F73E58791F97C5023" : "PlenryProject"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Plenry",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Plenry.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/XiaoguangMo\/PlenryProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4924E6F4450D527E3E80B99F73E58791F97C5023"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Plenry\/plenry-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC7E69C215DCE0A4E089D759DC09381B9A8AB4F0"
+    }
+  ]
+}
